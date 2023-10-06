@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalletConvert</string>
+    <string name="hintPriceInput">Price</string>
+    <string name="dollarButtonHint">＄ 75 RUB</string>
+    <string name="euroButtonHint">€ 90 RUB</string>
+    <string name="poundButtonHint">£ 100 RUB</string>
+    <string name="priceActivityButtonText">OK</string>
+    <string name="discountText">Your discount is %d percent</string>
+    <string name="resultText">Price in wallet is %d</string>
+
+</resources>
